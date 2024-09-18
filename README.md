@@ -5,7 +5,7 @@
 - 🧠 AI Enthusiast
 - 🌱 Currently focusing in Machine Learning
 - 📰 Ex Tech Blogger
-- 📫 Team IT Member for Formula SAE Apex Corse team
+- 📫 Team IT Member for Formula SAE Apex Corse
 - 🎙️ Host for Iperconnessi Podcast on Open Radio
 
 <!---
