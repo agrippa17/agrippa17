@@ -6,6 +6,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Agrippa17)
 
 
+- 🥇 1° Place MDWHack2024
+- 🥈 2° Place ITADATAHack2024 
 - 🧠 AI Enthusiast
 - 🌱 Currently focusing in Machine Learning
 - 📰 Ex Tech Blogger
