@@ -11,7 +11,7 @@
 - 🧠 AI Enthusiast
 - 🌱 Currently focusing in Machine Learning
 - 📰 Ex Tech Blogger
-- 📫 Team IT Member for Formula SAE [Apex Corse](https://github.com/Formula-SAE/IT)
+- 📫 Director of Operations (ex Team IT Member) Formula SAE [Apex Corse](https://github.com/Formula-SAE/IT)
 - 🎙️ Host for [Iperconnessi](https://open.spotify.com/episode/5usKggIh03yIwrXTdahqjZ?si=9c5d1ed64a5a469e) Podcast on Open Radio
 
 - #### I Worked with
